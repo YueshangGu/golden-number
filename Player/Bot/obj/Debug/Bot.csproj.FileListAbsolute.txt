@@ -1,0 +1,7 @@
+C:\Users\v-kahu\Desktop\Player\Bot\bin\Debug\Bot.exe.config
+C:\Users\v-kahu\Desktop\Player\Bot\bin\Debug\Bot.exe
+C:\Users\v-kahu\Desktop\Player\Bot\bin\Debug\Bot.pdb
+C:\Users\v-kahu\Desktop\Player\Bot\obj\Debug\Bot.csprojAssemblyReference.cache
+C:\Users\v-kahu\Desktop\Player\Bot\obj\Debug\Bot.csproj.CoreCompileInputs.cache
+C:\Users\v-kahu\Desktop\Player\Bot\obj\Debug\Bot.exe
+C:\Users\v-kahu\Desktop\Player\Bot\obj\Debug\Bot.pdb
